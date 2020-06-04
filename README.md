@@ -1,0 +1,1 @@
+This app is a vanilla RESTful resource, built in compliance with The Odin Project's Curriculum. The Project can be found [here](https://www.theodinproject.com/lessons/apis#project-1-building-a-simple-kittens-api)
